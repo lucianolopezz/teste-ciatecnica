@@ -1,0 +1,12 @@
+.filter-status label {
+  margin-right: 10px;
+}
+
+.filter-status svg {
+  margin-left: 10px;
+}
+
+.td-actions > button {
+  margin-right: 5px;
+}
+
